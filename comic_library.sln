@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "comic_libary", "comic_libary.csproj", "{F40FA806-6591-4B90-91D1-5984B6D0A25E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "comic_library", "comic_library.csproj", "{F40FA806-6591-4B90-91D1-5984B6D0A25E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace comic_libary.Controllers
+namespace comic_library.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
